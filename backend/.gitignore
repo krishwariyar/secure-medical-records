@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+medical_records.db
+fernet.key
+.env
+
+aes_gcm.key

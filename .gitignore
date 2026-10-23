@@ -1,0 +1,9 @@
+node_modules/
+dist/
+backend/__pycache__/
+backend/.venv/
+backend/medical_records.db
+backend/fernet.key
+backend/.env
+
+backend/aes_gcm.key
